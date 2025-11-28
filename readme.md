@@ -32,7 +32,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ### *Sentiment correlates weakly with raw PnL, but patterns emerge around volatility periods.*
 
-![Daily PnL vs Sentiment](outputs/daily_pnl_vs_sentiment.png)
+![Daily PnL vs Sentiment](ds_neelakshSaxena/outputs/daily_pnl_vs_sentiment.png)
 
 ---
 
@@ -40,7 +40,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ### *High leverage amplifies outcomes, especially during Greed/Fear regimes.*
 
-![Leverage vs PnL scatter](outputs/leverage_vs_pnl_scatter.png)
+![Leverage vs PnL scatter](ds_neelakshSaxena/outputs/leverage_vs_pnl_scatter.png)
 
 ---
 
@@ -48,11 +48,11 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ## Extreme Greed (+/- 3 days window)
 
-![Extreme Greed Window](outputs/extreme_greed_window.png)
+![Extreme Greed Window](ds_neelakshSaxena/outputs/extreme_greed_window.png)
 
 ## Extreme Fear (+/- 3 days window)
 
-![Extreme Fear Window](outputs/extreme_fear_window.png)
+![Extreme Fear Window](ds_neelakshSaxena/outputs/extreme_fear_window.png)
 
 ---
 
@@ -60,7 +60,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ### *Even though sentiment isn’t a strong standalone predictor, leverage & size carry predictive signal.*
 
-![Random Forest Feature Importances](outputs/rf_feature_importances.png)
+![Random Forest Feature Importances](ds_neelakshSaxena/outputs/rf_feature_importances.png)
 
 ---
 
@@ -89,9 +89,9 @@ matter WAY more than sentiment score.
 # 📁 Output Directory Summary
 
 All charts are saved in:
-
-./outputs/
-
+`
+./ds_neelakshSaxena/outputs/
+`
 These are ready to be included in:
 - GitHub repo  
 - ds_report.pdf  
