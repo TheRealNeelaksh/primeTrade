@@ -14,17 +14,7 @@ All supporting visualizations are included below.
 
 ---
 
-# 💰 2. PnL Distributions by Sentiment
-
-### *How profit/loss distribution shifts in Fear vs Greed days*
-
-![PnL Distribution by Sentiment](outputs/pnl_distribution_boxplot.png)
-
-(*If you used a different filename, update accordingly*)
-
----
-
-# 🔥 3. Heatmaps: Win Rate & Avg PnL
+# 🔥 2. Heatmaps: Win Rate & Avg PnL
 
 ### Win Rate Heatmap  
 Shows which leverage buckets perform well under different sentiment states.
@@ -38,7 +28,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 📈 4. Daily Sentiment vs Daily Mean PnL
+# 📈 3. Daily Sentiment vs Daily Mean PnL
 
 ### *Sentiment correlates weakly with raw PnL, but patterns emerge around volatility periods.*
 
@@ -46,7 +36,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 📉 5. Scatterplot: Leverage vs PnL (Colored by Sentiment)
+# 📉 4. Scatterplot: Leverage vs PnL (Colored by Sentiment)
 
 ### *High leverage amplifies outcomes, especially during Greed/Fear regimes.*
 
@@ -54,7 +44,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 📆 6. Event Study (Extreme Sentiment 5% Days)
+# 📆 5. Event Study (Extreme Sentiment 5% Days)
 
 ## Extreme Greed (+/- 3 days window)
 
@@ -66,7 +56,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 🤖 7. ML Model Feature Importances
+# 🤖 6. ML Model Feature Importances
 
 ### *Even though sentiment isn’t a strong standalone predictor, leverage & size carry predictive signal.*
 
