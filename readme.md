@@ -1,11 +1,11 @@
-# 🔥 Final Summary & Visual Report
+# Final Summary & Visual Report
 
 This section summarizes the insights extracted from trading behavior compared with the Bitcoin Market Sentiment (Fear & Greed Index).  
 All supporting visualizations are included below.
 
 ---
 
-# 📊 1. Trade Distribution Across Sentiments
+# 1. Trade Distribution Across Sentiments
 
 ### *How different sentiment days impact trade activity*  
 ✔ Shows whether Fear / Greed leads to heavier or lighter trading volume.
@@ -14,7 +14,7 @@ All supporting visualizations are included below.
 
 ---
 
-# 🔥 2. Heatmaps: Win Rate & Avg PnL
+# 2. Heatmaps: Win Rate & Avg PnL
 
 ### Win Rate Heatmap  
 Shows which leverage buckets perform well under different sentiment states.
@@ -28,7 +28,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 📈 3. Daily Sentiment vs Daily Mean PnL
+# 3. Daily Sentiment vs Daily Mean PnL
 
 ### *Sentiment correlates weakly with raw PnL, but patterns emerge around volatility periods.*
 
@@ -36,7 +36,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 📉 4. Scatterplot: Leverage vs PnL (Colored by Sentiment)
+# 4. Scatterplot: Leverage vs PnL (Colored by Sentiment)
 
 ### *High leverage amplifies outcomes, especially during Greed/Fear regimes.*
 
@@ -44,7 +44,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 📆 5. Event Study (Extreme Sentiment 5% Days)
+# 5. Event Study (Extreme Sentiment 5% Days)
 
 ## Extreme Greed (+/- 3 days window)
 
@@ -56,7 +56,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 🤖 6. ML Model Feature Importances
+# 6. ML Model Feature Importances
 
 ### *Even though sentiment isn’t a strong standalone predictor, leverage & size carry predictive signal.*
 
@@ -64,7 +64,7 @@ Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
 ---
 
-# 🧠 Key Insights
+# Key Insights
 
 ### 1. **Sentiment ≠ PnL Predictor (Linear)**  
 Correlation is near zero. But patterns show up at extremes.
@@ -86,7 +86,7 @@ matter WAY more than sentiment score.
 
 ---
 
-# 📁 Output Directory Summary
+# Output Directory Summary
 
 All charts are saved in:
 `
@@ -99,7 +99,7 @@ These are ready to be included in:
 
 ---
 
-# 🎯 Final Verdict
+# Final Verdict
 
 While sentiment alone does not predict profitability,  
 **its interaction with leverage and trader behavior reveals powerful hidden patterns**—  
