@@ -10,7 +10,7 @@ All supporting visualizations are included below.
 ### *How different sentiment days impact trade activity*  
 ✔ Shows whether Fear / Greed leads to heavier or lighter trading volume.
 
-![Total Trades by Sentiment](outputs/total_trades_by_sentiment.png)
+![Total Trades by Sentiment](ds_neelakshSaxena/outputs/total_trades_by_sentiment.png)
 
 ---
 
@@ -19,12 +19,12 @@ All supporting visualizations are included below.
 ### Win Rate Heatmap  
 Shows which leverage buckets perform well under different sentiment states.
 
-![Win Rate Heatmap](outputs/winrate_heatmap.png)
+![Win Rate Heatmap](ds_neelakshSaxena/outputs/winrate_heatmap.png)
 
 ### Average PnL Heatmap  
 Shows which trade Sides and Sentiments combine for best/worst outcomes.
 
-![Avg PnL by Side × Sentiment](outputs/avgpnl_side_sentiment_heatmap.png)
+![Avg PnL by Side × Sentiment](ds_neelakshSaxena/outputs/avgpnl_side_sentiment_heatmap.png)
 
 ---
 
